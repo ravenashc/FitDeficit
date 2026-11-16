@@ -1,3 +1,5 @@
+FitDeficit: Engineering Calorie Architecture
+
 'FitDeficit: Engineering Calorie Architecture' is a calorie deficit tracker. The user types in their details and clicks Calculate, and the app shows a daily and weekly calorie limit.
 
 1. Events.
